@@ -1,11 +1,43 @@
-# Custom DL Models 🧠
+<div align='center'>
+  <h1>Custom DL Models 🧠</h1>
+  <br/>
+</div>
+<div align='center'>
 
-This open-source repository is a hub for custom deep learning models, including Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Deep Neural Networks (DNN), Transformer Networks, as well as various combinational networks. Users can upload their custom models, pretrained models with custom datasets, and experiment with hyperparameter tuning to achieve better model performance. The repository supports both PyTorch and TensorFlow, giving users flexibility in their deep learning framework choice.
+<img src="https://img.shields.io/badge/ACM--SIGAI--Amritapuri-Amrita%20Vishwa%20Vidhyapeetam-Brown?labelColor=Orange&style=for-the-badge&logo=School&logoColor=Yellow" alt="ACM-SIGAI-Amritapuri" />
+<br><br>
+
+<b>PROJECT DESCRIPTION</b><br>
+Welcome to the **Custom DL Models** open-source repository, where you can unleash your creativity in deep learning! 🚀 We support a variety of neural network architectures, including Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Deep Neural Networks (DNN), Transformers, and innovative combinational networks. Users can upload their custom models, pretrained models with custom datasets, and dive into the world of hyperparameter tuning. Whether you're a PyTorch enthusiast or a TensorFlow devotee, we've got you covered! 💡
 
 ![image](https://github.com/LokeshYarramallu/Custom_DL_Models/assets/75054074/9ca1b5e8-d8d1-4d32-a3cb-65b9b0ab8283)
 
+<br>
+<h2>✨Contributors</h2>   
+<br/>
+<a href="https://github.com/LokeshYarramallu/Custom_DL_Models/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=lokeshyarramallu/Custom_DL_Models"/>
+</a>
+<br><br>
+<br/>
 
-Welcome to the **Custom DL Models** open-source repository, where you can unleash your creativity in deep learning! 🚀 We support a variety of neural network architectures, including Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Deep Neural Networks (DNN), Transformers, and innovative combinational networks. Users can upload their custom models, pretrained models with custom datasets, and dive into the world of hyperparameter tuning. Whether you're a PyTorch enthusiast or a TensorFlow devotee, we've got you covered! 💡
+![GitHub issues](https://img.shields.io/github/issues-raw/LokeshYarramallu/Custom_DL_Models?style=for-the-badge&color=orange)
+![GitHub stars](https://img.shields.io/github/stars/LokeshYarramallu/Custom_DL_Models?style=for-the-badge&color=yellow)
+![GitHub forks](https://img.shields.io/github/forks/LokeshYarramallu/Custom_DL_Models?style=for-the-badge&color=purple)
+<br><br>
+![GitHub contributors](https://img.shields.io/github/contributors/LokeshYarramallu/Custom_DL_Models?style=for-the-badge&color=blue)
+![GitHub Closed issues](https://img.shields.io/github/issues-closed-raw/LokeshYarramallu/Custom_DL_Models?style=for-the-badge&color=brightgreen)
+![GitHub PR Open](https://img.shields.io/github/issues-pr/LokeshYarramallu/Custom_DL_Models?style=for-the-badge&color=aqua)
+![GitHub PR closed](https://img.shields.io/github/issues-pr-closed-raw/LokeshYarramallu/Custom_DL_Models?style=for-the-badge&color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/LokeshYarramallu/Custom_DL_Models?style=for-the-badge&color=blue)
+![GitHub Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=for-the-badge)
+![Github Repo Size](https://img.shields.io/github/repo-size/LokeshYarramallu/Custom_DL_Models?style=for-the-badge&color=aqua)
+
+</div>
+
+
+
+
 
 ## Table of Contents 📑
 
