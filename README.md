@@ -7,7 +7,7 @@ HyperParameter tuning :
 
 | METHOD      |TECHNIQUES| 
 |:-------------:|:-------------:|
-| **Initialization** | *Xavier (uniform)|
+| **Initialization** | *Xavier (uniform)(Softmax and tanh)*|
 || *He (Possion)(ReLu)*|
 | **Activation functions** | *Sigmoid* |
 ||*Tanh*| 
