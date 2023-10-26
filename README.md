@@ -119,6 +119,9 @@ Description: Combinational networks combine multiple architectural components to
 Use Cases: Custom applications that require a blend of CNN, RNN, DNN, and Transformer features.
 Each custom network type is accompanied by code examples, documentation, and datasets, enabling you to dive into the specifics of each architecture. Whether you are looking to tackle computer vision, natural language processing, or other AI-related tasks, our repository has you covered.
 
+![image](https://github.com/LokeshYarramallu/Custom_DL_Models/assets/75054074/a2475aae-e675-4dd6-a79e-a21456db02d8)
+
+
 ## Hyperparameter Tuning ⚙️
 
 The repository encourages users to experiment with hyperparameters to optimize their custom models. Here's a list of key hyperparameters that can be tuned:
@@ -167,6 +170,10 @@ The repository encourages users to experiment with hyperparameters to optimize t
 ||*Batch Normalization*| 
 ||*Data Augmentaition*|
 ||*Ensemble Methods*| 
+
+![image](https://github.com/LokeshYarramallu/Custom_DL_Models/assets/75054074/484112fa-c43f-4d57-8892-2f5fc101c847)
+
+
  
 ## Contributing 🤝 
 
